@@ -1,4 +1,4 @@
-# DL- Convolutional Autoencoder for Image Denoising
+# EX-07 DL- Convolutional Autoencoder for Image Denoising
 
 ## AIM
 To develop a convolutional autoencoder for image denoising application.
